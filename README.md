@@ -1,5 +1,5 @@
 # Installsetup
-# ⚡ FACK HACKER Auto Installer
+# ⚡ pkg Auto Installer
 
 A powerful Linux installer script with hacker-style UI, auto error skipping system, and bulk tool installation.
 
@@ -15,13 +15,32 @@ A powerful Linux installer script with hacker-style UI, auto error skipping syst
 - ✔️ Success / ❌ Failed status indicator
 
 ---
+📦 Installed Tools
 
-## 🖥️ Supported System
+Some of the major tools included:
 
-- Ubuntu / Debian based Linux
-- Kali Linux (partial support)
-
----
+nmap
+hydra
+git
+curl
+wget
+tor
+wireshark
+net-tools
+openssh
+macchanger
+cmatrix
+figlet
+cowsay
+🐍 Python Packages
+requests
+mechanize
+bs4
+telethon
+rsa
+rich
+colorama
+futures
 
 ## 📥 Installation
 
@@ -29,3 +48,13 @@ Clone the repository:
 
 ```bash
 https://github.com/ANANNOCHOWDHURY/Installsetup.git
+
+Give permission:
+
+```bash
+chmod +x install.sh
+
+Run the script:
+
+```bash
+./install.sh
