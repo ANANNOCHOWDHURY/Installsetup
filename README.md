@@ -44,17 +44,33 @@ futures
 
 ## 📥 Installation
 
-Clone the repository:
+Follow the steps below to install and run the tool:
 
+Clone the Repository:
 ```bash
-https://github.com/ANANNOCHOWDHURY/Installsetup.git
+git clone https://github.com/ANANNOCHOWDHURY/Installsetup.git
+cd Installsetup
+```
 
-Give permission:
+Enter file:
+```bash
+cd Installsetup
+```
 
 ```bash
 chmod +x install.sh
+```
+
+Give permission:
+```bash
+chmod +x install.sh
+```
 
 Run the script:
-
 ```bash
 ./install.sh
+```
+OR
+```bash
+bash install.sh
+```
