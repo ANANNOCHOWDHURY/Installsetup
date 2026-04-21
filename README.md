@@ -49,7 +49,6 @@ Follow the steps below to install and run the tool:
 Clone the Repository:
 ```bash
 git clone https://github.com/ANANNOCHOWDHURY/Installsetup.git
-cd Installsetup
 ```
 
 Enter file:
