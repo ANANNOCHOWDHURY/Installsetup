@@ -28,4 +28,4 @@ A powerful Linux installer script with hacker-style UI, auto error skipping syst
 Clone the repository:
 
 ```bash
-
+https://github.com/ANANNOCHOWDHURY/Installsetup.git
