@@ -1,0 +1,2 @@
+# Termuxsetup
+full setup
