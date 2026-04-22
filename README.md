@@ -56,10 +56,6 @@ Enter file:
 cd Installsetup
 ```
 
-```bash
-chmod +x install.sh
-```
-
 Give permission:
 ```bash
 chmod +x install.sh
